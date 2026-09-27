@@ -1,0 +1,5 @@
+{
+  "name": "Twisted Game",
+  "description": "A retro terminal-style game with a stick figure.",
+  "requestFramePermissions": []
+}
